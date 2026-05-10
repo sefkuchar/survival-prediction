@@ -1,5 +1,4 @@
-# Define the comprehensive markdown content for the Accident Analysis README
-detailed_readme_content = """# Accident Analysis: Seatbelt Usage Prediction Model
+
 
 This repository contains a high-performance machine learning pipeline designed to predict whether an accident victim was wearing a seatbelt (`Seatbelt_Used`) based on demographic and environmental factors. The project emphasizes **data integrity**, **feature discovery**, and **ensemble robustness**.
 
